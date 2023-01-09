@@ -1,3 +1,3 @@
-#   Example Robot: Getting Started
+#   Yep
 
-An example project which demonstrates the simplest autonomous and teleoperated routines.
+robot
